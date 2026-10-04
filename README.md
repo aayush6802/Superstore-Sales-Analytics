@@ -60,8 +60,6 @@ The project focuses on answering key business questions:
 
 ![Profit by Sub-Category](images/profit_by_subcategory.png)
 
-![Discount vs Profit](images/discount_vs_profit.png)
-
 ---
 
 ## 🛠️ Tech Stack
